@@ -1,4 +1,4 @@
-#CH4 emissions from rice paddies
+# CH4 emissions from rice paddies
 
 • The early emission peak is the first one. In this pattern,
 CH4 fluxes increase after flooding for rice transplant-
