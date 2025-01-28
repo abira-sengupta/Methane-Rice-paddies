@@ -33,7 +33,7 @@ of the rice season. Approximately 8% of all observa-
 tions, including India, follow this pattern.
 
 
-[View the PDF](image/Local-explanations.pdf)
+![Example Image](image/Local-explanations.png)
 
 
 
