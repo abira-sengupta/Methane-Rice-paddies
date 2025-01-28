@@ -37,3 +37,8 @@ tions, including India, follow this pattern.
 
 
 
+| Feature       | Description          | Status     |
+|---------------|----------------------|------------|
+| Feature A     | Provides functionality A | Completed |
+| Feature B     | Supports functionality B | In Progress |
+| Feature C     | Experimental feature   | Planned    |
