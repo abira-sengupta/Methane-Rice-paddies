@@ -33,6 +33,7 @@ of the rice season. Approximately 8% of all observa-
 tions, including India, follow this pattern.
 
 
+
 ![Example Image](image/Local-explanations.png)
 
 
@@ -44,6 +45,7 @@ tions, including India, follow this pattern.
 | CH4            | MetoP-B          | 2013-02-01 - continue      | LMD v8.1   |
 |CH4             | Greenhouse Gases Observing satellite (GoSAT) |2009-06-01 - continue | ESACCI (SRON)|
 
+# HP importances for the six regression models
 ![Example Image](image/CH4-HP-Regression.png)
 
 
