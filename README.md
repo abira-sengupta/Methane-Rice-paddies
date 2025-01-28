@@ -53,8 +53,8 @@ the CAMS reanalysis EGG4 are listed below.
 # HP importances for the six classification models
 ![Example Image](image/CH4-HP-Classification.png)
 
-| Model       | Hyperparameters (Regression)                            |  Model    | Hyperparameters (Classification)           |                  |
-|-------------|----------------------------------------------------------|-------------------------------------------------------------|
+| Model       | Hyperparameters (Regression)                            |  Model    | Hyperparameters (Classification)           |             
+|-------------|----------------------------------------------------------|-----------|--------------------------------------------------|
 | **RF**      | criterion=‘poisson’, max_depth=2, max_samples=0.651752, min_samples_leaf=0.189317, min_samples_split=0.449878, n_estimators=23 | **RF** | class_weight=‘balanced’, max_depth=4, max_samples=0.920910, min_samples_leaf= 0.1060876, min_samples_split=0.223397, n_estimators=43 |
 | **AdaBoost**| earning_rate=0.014532, n_estimators=110                |  **AdaBoost** | learning_rate= 1.562151, n_estimators=48|  
 | **XGBR**    | eta=0.027458, eval_metric=‘rmse’, gamma=0.771812, max_depth=5, max_leaves=5, min_child_weight=1, n_estimators=99 | 
