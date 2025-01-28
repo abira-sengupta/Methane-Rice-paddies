@@ -52,3 +52,15 @@ the CAMS reanalysis EGG4 are listed below.
 
 # HP importances for the six classification models
 ![Example Image](image/CH4-HP-Classification.png)
+
+
+| Model      | Hyper-parameters          | Model     | Hyper-parameters   |
+|----------------|-------------------|------------|--------|
+| RF             | class_weight=‘balanced’, max_depth=4, 
+                  max_samples=0.920910, min_samples_leaf= 0.1060876,
+                  min_samples_split=0.223397, n_estimators=43          | RF    | criterion=‘poisson’, max_depth=2
+                                                                                  max_samples=0.651752, min_samples_leaf=0.189317
+                                                                                  min_samples_split=0.449878, n_estimators=23|
+| CH4            | MetoP-A          | 2007-07-01 - 2015-06-30       | LMD v8.3    | 
+| CH4            | MetoP-B          | 2013-02-01 - continue      | LMD v8.1   |
+|CH4             | Greenhouse Gases Observing satellite (GoSAT) |2009-06-01 - continue | ESACCI (SRON)|
