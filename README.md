@@ -54,67 +54,66 @@ the CAMS reanalysis EGG4 are listed below.
 ![Example Image](image/CH4-HP-Classification.png)
 
 
-| Model        | Parameter               | Value        |
-|--------------|-------------------------|--------------|
-| **F**        | class_weight            | ‘balanced’   |
-|              | max_depth               | 4            |
-|              | max_samples             | 0.920910     |
-|              | min_samples_leaf        | 0.1060876    |
-|              | min_samples_split       | 0.223397     |
-|              | n_estimators            | 43           |
-| **RF**       | criterion               | ‘poisson’    |
-|              | max_depth               | 2            |
-|              | max_samples             | 0.651752     |
-|              | min_samples_leaf        | 0.189317     |
-|              | min_samples_split       | 0.449878     |
-|              | n_estimators            | 23           |
-| **AdaBoost** | learning_rate           | 1.562151     |
-|              | n_estimators            | 48           |
-|              | learning_rate           | 0.014532     |
-|              | n_estimators            | 110          |
-| **XGBC**     | eta                     | 0.320501     |
-|              | eval_metric             | ‘auc’        |
-|              | gamma                   | 0.437727     |
-|              | max_depth               | 2            |
-|              | max_leaves              | 2            |
-|              | min_child_weight        | 5            |
-|              | n_estimators            | 27           |
-| **XGBR**     | eta                     | 0.027458     |
-|              | eval_metric             | ‘rmse’       |
-|              | gamma                   | 0.771812     |
-|              | max_depth               | 5            |
-|              | max_leaves              | 5            |
-|              | min_child_weight        | 1            |
-|              | n_estimators            | 99           |
-| **LGBM**     | class_weight            | ‘balanced’   |
-|              | feature_fraction        | 0.489883     |
-|              | learning_rate           | 0.614967     |
-|              | max_depth               | 5            |
-|              | min_data_in_leaf        | 82           |
-|              | n_estimators            | 81           |
-|              | num_leaves              | 34           |
-|              | objective               | ‘binary’     |
-| **LGBM**     | feature_fraction        | 0.458930     |
-|              | learning_rate           | 0.082612     |
-|              | max_depth               | 1            |
-|              | min_data_in_leaf        | 2            |
-|              | n_estimators            | 18           |
-|              | num_leaves              | 28           |
-|              | objective               | ‘regression’ |
-| **MLP**      | activation              | ‘tanh’       |
-|              | alpha                   | 0.000544     |
-|              | hidden_layer_sizes      | 9            |
-|              | learning_rate           | ‘invscaling’ |
-|              | learning_rate_init      | 0.007015     |
-|              | max_iter                | 486          |
-|              | momentum                | 0.994338     |
-|              | solver                  | ‘lbfgs’      |
-| **MLP**      | activation              | ‘logistic’   |
-|              | alpha                   | 0.000842     |
-|              | hidden_layer_sizes      | 14           |
-|              | learning_rate           | ‘adaptive’   |
-|              | learning_rate_init      | 0.003694     |
-|              | max_iter                | 265          |
-|              | momentum                | 0.071646     |
-|              | solver                  | ‘sgd’        |
-
+| Model     | Hyperparameter           | Value         | Type         |
+|-----------|--------------------------|---------------|--------------|
+| RF        | class_weight             | balanced      | classification|
+| RF        | max_depth                | 4             | classification|
+| RF        | max_samples              | 0.920910      | classification|
+| RF        | min_samples_leaf         | 0.1060876     | classification|
+| RF        | min_samples_split        | 0.223397      | classification|
+| RF        | n_estimators             | 43            | classification|
+| RF        | criterion                | poisson       | classification|
+| RF        | max_depth                | 2             | classification|
+| RF        | max_samples              | 0.651752      | classification|
+| RF        | min_samples_leaf         | 0.189317      | classification|
+| RF        | min_samples_split        | 0.449878      | classification|
+| RF        | n_estimators             | 23            | classification|
+| AdaBoost  | learning_rate            | 1.562151      | classification|
+| AdaBoost  | n_estimators             | 48            | classification|
+| AdaBoost  | learning_rate            | 0.014532      | classification|
+| AdaBoost  | n_estimators             | 110           | classification|
+| XGBC      | eta                      | 0.320501      | classification|
+| XGBC      | eval_metric              | auc           | classification|
+| XGBC      | gamma                    | 0.437727      | classification|
+| XGBC      | max_depth                | 2             | classification|
+| XGBC      | max_leaves               | 2             | classification|
+| XGBC      | min_child_weight         | 5             | classification|
+| XGBC      | n_estimators             | 27            | classification|
+| XGBR      | eta                      | 0.027458      | regression   |
+| XGBR      | eval_metric              | rmse          | regression   |
+| XGBR      | gamma                    | 0.771812      | regression   |
+| XGBR      | max_depth                | 5             | regression   |
+| XGBR      | max_leaves               | 5             | regression   |
+| XGBR      | min_child_weight         | 1             | regression   |
+| XGBR      | n_estimators             | 99            | regression   |
+| LGBM      | class_weight             | balanced      | classification|
+| LGBM      | feature_fraction         | 0.489883      | classification|
+| LGBM      | learning_rate            | 0.614967      | classification|
+| LGBM      | max_depth                | 5             | classification|
+| LGBM      | min_data_in_leaf         | 82            | classification|
+| LGBM      | n_estimators             | 81            | classification|
+| LGBM      | num_leaves               | 34            | classification|
+| LGBM      | objective                | binary        | classification|
+| LGBM      | feature_fraction         | 0.458930      | classification|
+| LGBM      | learning_rate            | 0.082612      | classification|
+| LGBM      | max_depth                | 1             | classification|
+| LGBM      | min_data_in_leaf         | 2             | classification|
+| LGBM      | n_estimators             | 18            | classification|
+| LGBM      | num_leaves               | 28            | classification|
+| LGBM      | objective                | regression    | regression   |
+| MLP       | activation               | tanh          | regression   |
+| MLP       | alpha                    | 0.000544      | regression   |
+| MLP       | hidden_layer_sizes       | 9             | regression   |
+| MLP       | learning_rate            | invscaling    | regression   |
+| MLP       | learning_rate_init       | 0.007015      | regression   |
+| MLP       | max_iter                 | 486           | regression   |
+| MLP       | momentum                 | 0.994338      | regression   |
+| MLP       | solver                   | lbfgs         | regression   |
+| MLP       | activation               | logistic      | classification|
+| MLP       | alpha                    | 0.000842      | classification|
+| MLP       | hidden_layer_sizes       | 14            | classification|
+| MLP       | learning_rate            | adaptive      | classification|
+| MLP       | learning_rate_init       | 0.003694      | classification|
+| MLP       | max_iter                 | 265           | classification|
+| MLP       | momentum                 | 0.071646      | classification|
+| MLP       | solver                   | sgd           | classification|
