@@ -36,7 +36,8 @@ tions, including India, follow this pattern.
 
 ![Example Image](image/Local-explanations.png)
 
-
+# Table 1: The atmospheric composition satellite retrievals used as input into
+the CAMS reanalysis EGG4 are listed below.
 
 | Parameter      | Satellite         | Period     | Data   |
 |----------------|-------------------|------------|--------|
