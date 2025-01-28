@@ -50,3 +50,5 @@ the CAMS reanalysis EGG4 are listed below.
 ![Example Image](image/CH4-HP-Regression.png)
 
 
+# HP importances for the six classification models
+![Example Image](image/CH4-HP-Classification.png)
