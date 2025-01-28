@@ -32,8 +32,8 @@ temperatures. They then fall until draining at the end
 of the rice season. Approximately 8% of all observa-
 tions, including India, follow this pattern.
 
-![Example Image](images/Local-explanations.pdf)
 
+[View the PDF](image/Local-explanations.pdf)
 
 
 
