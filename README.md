@@ -1,19 +1,11 @@
 # Methane (CH4) emissions from rice paddies
 
 - The early emission peak is the first one. In this pattern,
-CH4 fluxes increase after flooding for rice transplant-
-ing, as straw and/or stubble from the previous sea-
-son provides the substrate for CH4 production. CH4
-emissions peak during tillering and typically decrease
-to near-zero levels before harvest. This group covers
-about 40% of all observations. This is observed in
+CH4 fluxes increase after flooding for rice transplanting, as straw and/or stubble from the previous season provides the substrate for CH4 production.
+CH4 emissions peak during tillering and typically decrease to near-zero levels before harvest. This group covers about 40% of all observations. This is observed in
 Vietnam.
-- There are two emission peaks in the second pattern.
-After transplanting, CH4 fluxes rise, peak during the
-tillering stage, and then fall. At the heading stage,
-when anaerobic conditions are created by flooding and
-rice roots serve as substrates for the production of
-CH4, emissions usually show a second peak. Vietnam
+- There are two emission peaks in the second pattern. After transplanting, CH4 fluxes rise, peak during the tillering stage, and then fall. At the heading stage,
+when anaerobic conditions are created by flooding and rice roots serve as substrates for the production of CH4, emissions usually show a second peak. Vietnam
 is included in the 27% of total observations that fall
 into this category.
 - There is only one late emission peak in the third pat-
