@@ -25,7 +25,7 @@ the CAMS reanalysis EGG4 are listed below.
 | CH4            | Environmental satellite (Envisat)          | 2003-01-08  - 2012-04-08     | ESACCI (SRON) v7.0|
 | CH4            | MetoP-A          | 2007-07-01 - 2015-06-30       | LMD v8.3    | 
 | CH4            | MetoP-B          | 2013-02-01 - continue      | LMD v8.1   |
-|CH4             | Greenhouse Gases Observing satellite (GoSAT) |2009-06-01 - continue | ESACCI (SRON)|
+| CH4             | Greenhouse Gases Observing satellite (GoSAT) |2009-06-01 - continue | ESACCI (SRON)|
 
 # HP importances for the six regression models
 ![Example Image](image/CH4-HP-Regression.png)
