@@ -40,6 +40,9 @@ the CAMS reanalysis EGG4 are listed below.
 # Boxplot-Bangladesh
 ![Example Image](image/Box-plots-Bangladesh.png)
 
+# Boxplot-India
+![Example Image](image/Box-plots-India.jpg)
+
 
 # SHAP-India
 ![Example Image](image/CH4-SHAP-I.jpg)
