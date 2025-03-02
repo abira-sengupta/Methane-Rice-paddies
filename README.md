@@ -37,6 +37,9 @@ the CAMS reanalysis EGG4 are listed below.
 # Correlation
 ![Example Image](image/Correlation.png)
 
+# Boxplot-Bangladesh
+![Example Image](image/Box-plots-Bangladesh.png)
+
 
 # Table 2: Models and HPs for regression and classification.
 
