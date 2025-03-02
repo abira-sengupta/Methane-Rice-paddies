@@ -47,6 +47,9 @@ the CAMS reanalysis EGG4 are listed below.
 # SHAP-Bangladesh
 ![Example Image](image/CH4-SHAP-B.jpg)
 
+# SHAP-Vietnam
+![Example Image](image/CH4-SHAP-V.jpg)
+
 # Table 2: Models and HPs for regression and classification.
 
 | Model       | Hyperparameters (Regression)                            |  Model    | Hyperparameters (Classification)           |             
