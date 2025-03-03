@@ -73,7 +73,7 @@ the CAMS reanalysis EGG4 are listed below.
 # Methane emission-India, Bangladesh, Vietnam (2020, Nov)
 ![Example Image](image/web-3.png)
 
-# Methane emission- heatmap
+# Methane emission- heatmap of Friedman test
 ![Example Image](image/Heatmap.png)
 
 
