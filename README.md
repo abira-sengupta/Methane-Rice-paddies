@@ -1,5 +1,5 @@
 # Methane (CH4) emissions from rice paddies
-
+Ch4 emissions from rice paddies vary dynamically depending on rice growing stages (Figure 1 (iii)) and environmental conditions, as described below,
 - The early emission peak is the first one. In this pattern,
 CH4 fluxes increase after flooding for rice transplanting, as straw and/or stubble from the previous season provides the substrate for CH4 production.
 CH4 emissions peak during tillering and typically decrease to near-zero levels before harvest. This group covers about 40% of all observations. This is observed in
