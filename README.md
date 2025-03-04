@@ -82,7 +82,7 @@ the CAMS reanalysis EGG4 are listed below.
 # SHAP-Vietnam
 ![Example Image](image/CH4-SHAP-V.jpg)
 
-# Table 3: Models and HPs for regression and classification.
+# Table 4: Models and HPs for regression and classification.
 
 | Model       | Hyperparameters (Regression)                            |  Model    | Hyperparameters (Classification)           |             
 |-------------|----------------------------------------------------------|-----------|--------------------------------------------------|
