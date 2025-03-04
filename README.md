@@ -1,3 +1,7 @@
+# World wide methane fluxes
+![Example Image](image/World-methane flux.png)
+
+
 # Methane (CH4) emissions from rice paddies
 Ch4 emissions from rice paddies vary dynamically depending on rice growing stages (Figure 1 (iii)) and environmental conditions, as described below,
 - The early emission peak is the first one. In this pattern,
