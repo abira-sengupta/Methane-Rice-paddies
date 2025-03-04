@@ -33,11 +33,20 @@ temperatures. They then fall until draining at the end of the rice season. Appro
 | Pakistan  | 7202 | 7206 | 8420 | 9323 | 6600 | 6600  |
 | Cambodia  | 5742 | 5740 | 5739 | 5771 | 5933 | 5933  |
 
+# Table 2: Rice cultivation environment, climate, and major regions/ countries.
 
 | Major Categories | Sub-Catrgories | Climate Description | Countries|
 |------------------|----------------|---------------------|----------|
-| Irrigated | With conducive temperature. With low-temperature, tropical zone. With low temperature, the temperate zone. | Warm to hot - tropics (rice all seasons) and Subtropics (double-crop summer rice) | Indonesia, Sri Lanka, Vietnam, the Philippines, south-eastern India, southern China, Bangladesh|
-|
+| Irrigated | With conducive temperature. With low-temperature, tropical zone. With low temperature, the temperate zone. | Warm to hot - tropics (rice all seasons) and Subtropics (double-crop summer rice) | Indonesia, Sri Lanka, Vietnam, the Philippines, south-eastern India, southern China, Bangladesh, Japan, Korean peninsula, north-eastern China, southern Brazil, southern USA|
+| Rainfed Lowlands | Rainfed Shallow, suitable, drought-prone, submergence-prone deep, waterlogged.| Tropics | Cambodia, Northeast Thailand, eastern India, Indonesia, Myanmar, Nigeria |
+| Upland | Suitable upland with  long growing season (LGS). Favorable upland with short growing season (SGS). Unfavorable upland with LGS. Unfavorable upland with SGS. | Tropics | South Asia, Southeast Asia, Brazilian Cerrado, western Africa, East Africa, Uganda |
+| Deep Water | Deep water. Very deep water | Tropics | River deltas of South Asia and Southeast Asia, Mali |
+| Tidal Wetlands | TW (Tidal Wetlands) with perennial fresh water. TW with seasonal or perennial saline water. TW with acid sulfate soils. TW with peat soils | Tropics | Vast areas near seacoasts and inland estuaries in Indonesia (Sumatra and Kalimantan), Vietnam and smaller areas in India, Bangladesh, and Thailand |
+
+
+
+
+
 ![Example Image](image/Local-explanations.png)
 
 # Table 2: The atmospheric composition satellite retrievals used as input into
@@ -77,7 +86,7 @@ the CAMS reanalysis EGG4 are listed below.
 # SHAP-Vietnam
 ![Example Image](image/CH4-SHAP-V.jpg)
 
-# Table 2: Models and HPs for regression and classification.
+# Table 3: Models and HPs for regression and classification.
 
 | Model       | Hyperparameters (Regression)                            |  Model    | Hyperparameters (Classification)           |             
 |-------------|----------------------------------------------------------|-----------|--------------------------------------------------|
