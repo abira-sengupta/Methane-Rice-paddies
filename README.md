@@ -16,7 +16,7 @@ and pre-harvest drainage, emissions start to decline after the heading. This cat
 - The final pattern is distinguished by emissions that are almost continuous. After transplanting, CH4 fluxes rise but stay high due to constant flooding and high
 temperatures. They then fall until draining at the end of the rice season. Approximately 8% of all observations, including India, follow this pattern.
 
-# The top 12 rice-producing countries in the world (milled production, 1000 metric tons)
+# Table 1: The top 12 rice-producing countries in the world (milled production, 1000 metric tons)
 
 |Country | 2018/19 | 2019/20 | 2020/21 | 2021/22 | 2022/23 | 2022/23 |
 |--------|---------|---------|---------|---------|---------|---------|
@@ -37,7 +37,7 @@ temperatures. They then fall until draining at the end of the rice season. Appro
 
 ![Example Image](image/Local-explanations.png)
 
-# Table 1: The atmospheric composition satellite retrievals used as input into
+# Table 2: The atmospheric composition satellite retrievals used as input into
 the CAMS reanalysis EGG4 are listed below.
 
 | Parameter      | Satellite         | Period     | Data   |
