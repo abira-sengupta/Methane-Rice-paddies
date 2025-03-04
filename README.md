@@ -36,9 +36,7 @@ temperatures. They then fall until draining at the end of the rice season. Appro
 
 | Major Categories | Sub-Catrgories | Climate Description | Countries|
 |------------------|----------------|---------------------|----------|
-| Irrigated | With conducive temperature. With low-temperature, tropical zone. With low temperature, the temperate zone. | Warm to hot - tropics (rice all seasons) and Subtropics (double-crop summer rice) | Indonesia, Sri Lanka, Vietnam, the
-Philippines, south-eastern India,
-southern China, Bangladesh|
+| Irrigated | With conducive temperature. With low-temperature, tropical zone. With low temperature, the temperate zone. | Warm to hot - tropics (rice all seasons) and Subtropics (double-crop summer rice) | Indonesia, Sri Lanka, Vietnam, the Philippines, south-eastern India, southern China, Bangladesh|
 |
 ![Example Image](image/Local-explanations.png)
 
