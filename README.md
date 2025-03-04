@@ -16,6 +16,23 @@ and pre-harvest drainage, emissions start to decline after the heading. This cat
 - The final pattern is distinguished by emissions that are almost continuous. After transplanting, CH4 fluxes rise but stay high due to constant flooding and high
 temperatures. They then fall until draining at the end of the rice season. Approximately 8% of all observations, including India, follow this pattern.
 
+# The top 12 rice-producing countries in the world (milled production, 1000 metric tons)
+
+|Country | 2018/19 | 2019/20 | 2020/21 | 2021/22 | 2022/23 | 2022/23 |
+|--------|---------|---------|---------|---------|---------|---------|
+|China   | 148,490 | 146,730 |148,300  |148,990  |145,946  | 145,946 |
+|India   | 116,484 | 118,870 | 124,368 | 129,471 |132,000  |132,000  |
+|Bangladesh | 34,909 | 35,850 | 34,600 | 35,850  | 35,850  | 36,350  |
+|Indonesia  | 34,200 |34,700  | 34,500 | 34,400  | 34,600  | 34,000  |
+| Vietnam   | 27,344 | 27,100 | 27,381 | 26,769  | 27,000  | 27,000  |
+| Thailand  | 20,340 | 17,655 | 18,863 | 19,878  | 20,200  | 20,200  |
+| Burma     | 13,200 | 12,650 | 12,600 | 12,352  | 12,500  | 12,500  |
+| Philippines | 11,732 | 11,927 | 12,416 | 12,540 | 12,411 | 12,411  |
+| Japan     | 7657 | 7611 | 7570 | 7636 | 7450 | 7480  |
+| Brazil    | 7140 | 7602 | 8001 | 7337 | 6936 | 6800  |
+| Pakistan  | 7202 | 7206 | 8420 | 9323 | 6600 | 6600  |
+| Cambodia  | 5742 | 5740 | 5739 | 5771 | 5933 | 5933  |
+
 
 
 ![Example Image](image/Local-explanations.png)
@@ -29,25 +46,6 @@ the CAMS reanalysis EGG4 are listed below.
 | CH4            | MetoP-A          | 2007-07-01 - 2015-06-30       | LMD v8.3    | 
 | CH4            | MetoP-B          | 2013-02-01 - continue      | LMD v8.1   |
 | CH4             | Greenhouse Gases Observing satellite (GoSAT) |2009-06-01 - continue | ESACCI (SRON)|
-
-
-
-|Country | 2018/19 | 2019/20 | 2020/21 | 2021/22 | 2022/23 | 2022/23 |
-|--------|---------|---------|---------|---------|---------|---------|
-|China   | 148,490 | 146,730 |148,300  |148,990  |145,946  | 145,946 |
-|India   | 116,484 | 118,870 | 124,368 | 129,471 |132,000  |132,000  |
-|Bangladesh | 34,909 | 35,850 | 34,600 | 35,850  | 35,850  | 36,350  |
-|Indonesia  | 34,200 |34,700  | 34,500 | 34,400  | 34,600  | 34,000  |
-| Vietnam   | 27,344 | 27,100 | 27,381 | 26,769  | 27,000  | 27,000  |
-| Thailand  | 20,340 | 17,655 | 18,863 | 19,878  | 20,200  | 20,200  |
-| Burma     | 13,200 | 12,650 | 12,600 | 12,352  | 12,500  | 12,500  |
-| Philippines | 11,732 | 11,927 | 12,416 | 12,540 | 12,411 | 12,411  |
-| Japan     | 7657 | 7611 | 7570 | 7636 | 7450 | 7480  |
-
-
-
-
-
 
 
 # HP importances for the six regression models
