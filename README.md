@@ -43,13 +43,9 @@ temperatures. They then fall until draining at the end of the rice season. Appro
 | Deep Water | Deep water. Very deep water | Tropics | River deltas of South Asia and Southeast Asia, Mali |
 | Tidal Wetlands | TW (Tidal Wetlands) with perennial fresh water. TW with seasonal or perennial saline water. TW with acid sulfate soils. TW with peat soils | Tropics | Vast areas near seacoasts and inland estuaries in Indonesia (Sumatra and Kalimantan), Vietnam and smaller areas in India, Bangladesh, and Thailand |
 
-
-
-
-
 ![Example Image](image/Local-explanations.png)
 
-# Table 2: The atmospheric composition satellite retrievals used as input into
+# Table 3: The atmospheric composition satellite retrievals used as input into
 the CAMS reanalysis EGG4 are listed below.
 
 | Parameter      | Satellite         | Period     | Data   |
