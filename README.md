@@ -34,7 +34,11 @@ temperatures. They then fall until draining at the end of the rice season. Appro
 | Cambodia  | 5742 | 5740 | 5739 | 5771 | 5933 | 5933  |
 
 
-
+| Major Categories | Sub-Catrgories | Climate Description | Countries|
+| Irrigated | With conducive temperature. With low-temperature, tropical zone. With low temperature, the temperate zone. | Warm to hot - tropics (rice all seasons) and Subtropics (double-crop summer rice) | Indonesia, Sri Lanka, Vietnam, the
+Philippines, south-eastern India,
+southern China, Bangladesh|
+|
 ![Example Image](image/Local-explanations.png)
 
 # Table 2: The atmospheric composition satellite retrievals used as input into
