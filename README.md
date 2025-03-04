@@ -119,22 +119,22 @@ RandomForestRegressor(criterion='friedman_mse', max_depth=6,
                       min_samples_split=0.13335041062045502, n_estimators=90,
                       random_state=1234)
 
-# AdaBoostRegressor
+# AdaBoostRegressor HP
 AdaBoostRegressor(learning_rate=0.07541816724943148, n_estimators=83,
                   random_state=1234)  
 
-# LGBMRegressor
+# LGBMRegressor HP
 LGBMRegressor(feature_fraction=0.7861510228560886,
               learning_rate=0.7032820017918386, max_depth=34,
               min_data_in_leaf=6, n_estimators=93, num_leaves=100,
               objective='regression', random_state=1234)   
 
-#  DecisionTreeRegressor
+#  DecisionTreeRegressor HP
 DecisionTreeRegressor(criterion='friedman_mse', max_depth=9,
                       max_features='sqrt', min_samples_leaf=2,
                       min_samples_split=3, random_state=1234)              
 
-# MLPRegressor
+# MLPRegressor HP
 MLPRegressor(activation='logistic', alpha=0.00818950316304573,
              hidden_layer_sizes=19, learning_rate_init=0.00175840415398845,
              max_iter=458, momentum=0.896639757792999, random_state=1234,
