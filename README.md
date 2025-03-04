@@ -106,5 +106,15 @@ the CAMS reanalysis EGG4 are listed below.
 ![Example Image](image/Heatmap.png)
 
 
+# XGBRegressor HP
+XGBRegressor(enable_categorical=False, eta=0.44781286179373714,
+             eval_metric='rmse', feature_types=None, gamma=0.7634807084392959,
+             max_depth=4, max_leaves=6, min_child_weight=6,
+             n_estimators=150, )
 
-
+# RandomForestRegressor HP
+RandomForestRegressor(criterion='friedman_mse', max_depth=6,
+                      max_samples=0.9377972440058464,
+                      min_samples_leaf=0.10362912749909789,
+                      min_samples_split=0.13335041062045502, n_estimators=90,
+                      random_state=1234)
