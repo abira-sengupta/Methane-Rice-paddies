@@ -59,6 +59,8 @@ the CAMS reanalysis EGG4 are listed below.
 # Data processing steps
 ![Example Image](image/Architecture.png)
 
+# Correlation
+![Example Image](image/Correlation.png)
 
 # HP importances for the six regression models
 ![Example Image](image/CH4-HP-Regression.png)
@@ -66,9 +68,6 @@ the CAMS reanalysis EGG4 are listed below.
 
 # HP importances for the six classification models
 ![Example Image](image/CH4-HP-Classification.png)
-
-# Correlation
-![Example Image](image/Correlation.png)
 
 # Boxplot-Bangladesh
 ![Example Image](image/Box-plots-Bangladesh.png)
