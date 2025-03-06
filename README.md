@@ -62,19 +62,19 @@ the CAMS reanalysis EGG4 are listed below.
 # Correlation
 ![Example Image](image/Correlation.png)
 
-# HP importances for the six regression models
-![Example Image](image/CH4-HP-Regression.png)
-
-
-# HP importances for the six classification models
-![Example Image](image/CH4-HP-Classification.png)
-
 # Boxplot-Bangladesh
 ![Example Image](image/Box-plots-Bangladesh.png)
 
 # Boxplot-India
 ![Example Image](image/Box-plots-India.jpg)
 
+
+# HP importances for the six regression models
+![Example Image](image/CH4-HP-Regression.png)
+
+
+# HP importances for the six classification models
+![Example Image](image/CH4-HP-Classification.png)
 
 # SHAP-India
 ![Example Image](image/CH4-SHAP-I.jpg)
