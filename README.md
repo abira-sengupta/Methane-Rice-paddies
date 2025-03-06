@@ -56,6 +56,10 @@ the CAMS reanalysis EGG4 are listed below.
 | CH4             | Greenhouse Gases Observing satellite (GoSAT) |2009-06-01 - continue | ESACCI (SRON)|
 
 
+# Data processing steps
+![Example Image](image/Architecture.png)
+
+
 # HP importances for the six regression models
 ![Example Image](image/CH4-HP-Regression.png)
 
