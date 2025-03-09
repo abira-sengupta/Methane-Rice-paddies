@@ -147,6 +147,9 @@ MLPRegressor(activation='logistic', alpha=0.00818950316304573,
 # Methane-models-boxplot-results
 ![Example Image](image/AVG-MSE.png).
 
-# Critical difference diagram of average test RMSE score ranks
+# Critical difference diagram of average test RMSE score ranks (Vietnam)
 ![Example Image](image/Statistical.png)
+
+# Critical difference diagram of average test RMSE score ranks (Bangladesh)
+![Example Image](image/Statistical-Bangladesh.png)
              
