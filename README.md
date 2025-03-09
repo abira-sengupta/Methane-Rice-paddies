@@ -142,3 +142,11 @@ MLPRegressor(activation='logistic', alpha=0.00818950316304573,
              hidden_layer_sizes=19, learning_rate_init=0.00175840415398845,
              max_iter=458, momentum=0.896639757792999, random_state=1234,
              solver='lbfgs')
+
+
+# Methane emission-India, Bangladesh, Vietnam (2020, Nov)
+![Example Image](image/AVG-MSE.png)
+
+# Methane emission-India, Bangladesh, Vietnam (2020, Nov)
+![Example Image](image/AVG-MSE.png)
+             
