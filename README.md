@@ -144,9 +144,9 @@ MLPRegressor(activation='logistic', alpha=0.00818950316304573,
              solver='lbfgs')
 
 
-# Methane emission-India, Bangladesh, Vietnam (2020, Nov)
-![Example Image](image/AVG-MSE.png)
+# Methane-models-boxplot-results
+![Example Image](image/AVG-MSE.png).
 
-# Methane emission-India, Bangladesh, Vietnam (2020, Nov)
-![Example Image](image/AVG-MSE.png)
+# Critical difference diagram of average test RMSE score ranks
+![Example Image](image/Statistical.png)
              
